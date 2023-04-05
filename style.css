@@ -1,0 +1,70 @@
+body {
+	text-align: center;
+	background-color: gray;
+}
+
+
+nav {
+	text-align: center; 
+	background-color: gray;
+}
+
+nav a {
+	text-decoration: none;
+	font-family: helvetica;
+	color: black;
+	font-size: 20px;
+	padding: 8px;
+}
+
+#profile {
+	background-image:url('background.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 50px;
+}
+
+#pendidikan {
+	text-align: center;
+	display: inline-block;
+}
+
+.c-contact{
+	text-align: center;
+}
+body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+
+		header {
+			background-color: #333;
+			color: #fff;
+			padding: 10px;
+			text-align: center;
+		}
+
+		#about {
+			margin: 20px auto;
+			max-width: 800px;
+			text-align: justify;
+		}
+
+		#about h1 {
+			font-size: 36px;
+			margin-bottom: 20px;
+		}
+
+		#about img {
+			text-align: center;
+			display: block;
+			margin: 0 auto 20px;
+			max-width: 100%;
+		}
+
+		#about p {
+			font-size: 18px;
+			line-height: 1.5;
+			margin-bottom: 20px;
+		}
